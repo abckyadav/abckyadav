@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="50%"/>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Abhishek</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abhishek</h1>
 An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
@@ -44,26 +44,27 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 </p>
 <hr/>
 
-<p align="center">
+
 ## 📈 My Github Stats
-
-
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abckyadav&show_icons=true&theme=radical" height="255px" width="47%"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abckyadav&theme=radical" alt="abckyadav" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abckyadav&theme=radical" alt="abckyadav" height="255px" width="47%" />
 </div>
+
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abckyadav&show_icons=true&theme=radical" height="255px" width="47%"/>
-</div>
- </p> 
+  <a href="https://github.com/abckyadav/github-readme-activity-graph"><img alt="Abhishek Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abckyadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</div
+<hr/>
 
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+## 🚀 Connect with me:
 <p align="left">
-<a href="https://twitter.com/anu250867anu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anu250867anu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abckyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abckyadav" height="30" width="40" /></a>
-<a href="https://fb.com/anu.abckyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anu.abckyadav" height="30" width="40" /></a>
-<a href="https://instagram.com/anu.abckyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu.abckyadav" height="30" width="40" /></a>
+<a href="https://twitter.com/anu250867anu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="anu250867anu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abckyadav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="abckyadav" height="30" width="40" /></a>
+<a href="https://fb.com/anu.abckyadav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="anu.abckyadav" height="30" width="40" /></a>
+<a href="https://instagram.com/anu.abckyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu.abckyadav" height="30" width="40" /></a>   
 </p>
+      
+      
+      
+      
