@@ -56,8 +56,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 </div
 <hr/>
 
-<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-## 🚀 Connect with me:
+##  <i><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80"/>Connect with me: </i>
 <p align="left">
 <a href="https://twitter.com/anu250867anu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="anu250867anu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abckyadav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="abckyadav" height="30" width="40" /></a>
