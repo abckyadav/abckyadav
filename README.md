@@ -49,6 +49,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abckyadav&show_icons=true&theme=radical" height="255px" width="47%"/>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abckyadav&theme=radical" alt="abckyadav" height="255px" width="47%" />
+     
 </div>
 
 <div>
@@ -65,7 +66,10 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 <a href="https://instagram.com/anu.abckyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu.abckyadav" height="30" width="40" /></a>   
 </p>
       
-      
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abckyadav}/count.svg" /></p> 
+<br></div>
       
       
       
