@@ -52,7 +52,8 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 </div>
 
 <div>
-  <a href="https://github.com/abckyadav/github-readme-activity-graph"><img alt="Abhishek Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abckyadav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/abckyadav/github-readme-activity-graph"><img alt="Abhishek Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abckyadav&hide_border=true&theme=redical" /></a>
+
 </div
 <hr/>
 
@@ -63,6 +64,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 <a href="https://fb.com/anu.abckyadav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="anu.abckyadav" height="30" width="40" /></a>
 <a href="https://instagram.com/anu.abckyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu.abckyadav" height="30" width="40" /></a>   
 </p>
+      
       
       
       
