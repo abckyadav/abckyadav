@@ -52,7 +52,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 </div>
 
 <div>
-  <a href="https://github.com/abckyadav/github-readme-activity-graph"><img alt="Abhishek Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abckyadav&hide_border=true&theme=redical" /></a>
+  <a href="https://github.com/abckyadav/"><img alt="Abhishek Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abckyadav&hide_border=true&theme=redical" /></a>
 
 </div
 <hr/>
