@@ -18,7 +18,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://LINK_HERE/)**
 
-- 📫 How to reach me **anu250867anu@gmail.com**
+- 📫 How to reach me **abhishek961007@gmail.com**
 
 - ⚡ Fun fact **I love music and travelling.**
 
