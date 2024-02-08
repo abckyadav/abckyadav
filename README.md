@@ -22,7 +22,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 
 - ⚡ Fun fact **I love music and travelling.**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1aOBH1fRPvBVr_HMsu_SSTUkNgU2RyEIT/view?usp=sharing](https://drive.google.com/drive/folders/1SsDE0W2M4wEpGyLZceNYRFPrFZVd-s2g?usp=sharing]))
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1SsDE0W2M4wEpGyLZceNYRFPrFZVd-s2g?usp=sharing)
 
 <hr/>
 
